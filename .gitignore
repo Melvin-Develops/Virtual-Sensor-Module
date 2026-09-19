@@ -1,0 +1,15 @@
+# Kernel module build files
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+
+# Kernel build metadata
+Module.symvers
+modules.order
+
+# Temporary files
+*.tmp
+*.swp
+user_app/sensor_app
